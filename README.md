@@ -35,4 +35,7 @@ Some important features from the dataset:
 
 ---
 
-
+## 👤 Author
+- **Sauvir Wodehra**  
+- GitHub: [@SauvirWodehra](https://github.com/SauvirWodehra)  
+- LinkedIn: [www.linkedin.com/in/sauvir-wodehra-032821257](https://www.linkedin.com/in/sauvir-wodehra-032821257)  
