@@ -35,10 +35,4 @@ Some important features from the dataset:
 
 ---
 
-## 🚀 Getting Started  
 
-### 🔧 Prerequisites  
-- Python 3.8+  
-- Required libraries:  
-  ```bash
-  pip install -r requirements.txt
